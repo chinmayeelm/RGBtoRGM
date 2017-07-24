@@ -8,3 +8,12 @@ This program computes magenta "channel" by adding red and blue channels. The ori
 
 ## Usage
 `RGBtoRGM.py [-h] [-o OUTPUT] input_image`
+
+## Example
+`RGBtoRGM.py test.jpg`
+### test.jpg
+![](example/test.jpg)
+### test.RGM.jpg
+![](example/test.RGM.jpg)
+
+Test image from https://www.flickr.com/photos/nationaleyeinstitute/24912842829
